@@ -14,8 +14,7 @@ int main()
 	for (a=0;a<n;a++){
 	printf("%d",L[a]);
 	}
-	
-	for(m=n/2;m>0;m/=2){
+		for(m=n/2;m>0;m/=2){
 	/*6 7 2 1===>2 7 6 1, 2 1 67//1 2 6 7, 1 2 6 7,1 2 6 7*/
 		 for (b=m;b<n;b++){
 			for (a=b-m;a>0;a-=m){
