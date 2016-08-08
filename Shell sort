@@ -24,7 +24,6 @@ int main()
 					temp = L[a];
 					L[a]=L[b+m];
 					L[a+m] = temp;
-					
 				}
 			}
 		}
