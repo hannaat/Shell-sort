@@ -29,7 +29,7 @@ int main()
 			}
 		}
 	}
-		printf("\nsesudah sorting: );
+		printf("\nSesudah sorting: );
 	for(a=0;a<n;a++){
 	printf("%d,L[a]);}
 	printf("\n");
