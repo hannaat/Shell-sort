@@ -33,5 +33,4 @@ int main()
 	{
 	printf("%d,L[a]);}
 	printf("\n");
-	
 	}
