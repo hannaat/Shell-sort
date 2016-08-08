@@ -7,7 +7,7 @@ int main()
 	for(a=0;a<=n;a++){
 		scanf("%d",&L[i]);
 		}
-	printf("\nsebelum sorting : ");
+	printf("\nSebelum sorting : ");
 	
 	
 	for (a=0;a<n;a++){
