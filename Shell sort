@@ -12,6 +12,7 @@ int main()
 	
 	
 	for (a=0;a<n;a++){
+	
 	printf("%d",L[a]);
 	}
 	
