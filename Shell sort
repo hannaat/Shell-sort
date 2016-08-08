@@ -3,7 +3,7 @@
 int main()
 {
 	int L[20],temp,a,b,n=6,m;
-	printf("pengurutan berdasarkan Shell sort\nmasukkan %d elemen: \n"n);
+	printf("pengurutan berdasarkan Shell sort\nMasukkan %d elemen: \n"n);
 	for(a=0;a<=n;a++){
 		scanf("%d",&L[i]);
 		}
